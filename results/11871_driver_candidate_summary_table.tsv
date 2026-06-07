@@ -1,0 +1,9 @@
+gene	effect	impact	hgvs_c	hgvs_p	tlod
+PIK3CA	missense_variant	MODERATE	c.3140A>G	p.His1047Arg	301.38
+CDH1	stop_gained	HIGH	c.1003C>T	p.Arg335*	228.38
+ATM	missense_variant	MODERATE	c.6154G>A	p.Glu2052Lys	9.31
+PIK3CA	missense_variant&splice_region_variant	MODERATE	c.2495G>A	p.Arg832Gln	7.87
+CDH1	splice_region_variant&intron_variant	LOW	c.1566-7C>T		7.43
+NF1	missense_variant&splice_region_variant	MODERATE	c.5609G>A	p.Arg1870Gln	7.41
+ATM	missense_variant	MODERATE	c.4397G>A	p.Arg1466Gln	7.18
+CDH1	missense_variant	MODERATE	c.2254G>A	p.Val752Ile	6.68

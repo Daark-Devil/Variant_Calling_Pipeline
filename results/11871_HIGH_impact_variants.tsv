@@ -1,0 +1,314 @@
+chrom	pos	ref	alt	filter	tlod	effect	impact	gene	gene_id	feature_type	transcript	biotype	hgvs_c	hgvs_p
+chr1	6680941	G	A	PASS	5.52	stop_gained	HIGH	DNAJC11	ENSG00000007923	transcript	ENST00000377577.10	protein_coding	c.169C>T	p.Arg57*
+chr1	11256986	G	A	PASS	4.64	stop_gained	HIGH	MTOR	ENSG00000198793	transcript	ENST00000361445.9	protein_coding	c.451C>T	p.Arg151*
+chr1	16986274	G	A	PASS	4.13	stop_gained	HIGH	ATP13A2	ENSG00000159363	transcript	ENST00000326735.13	protein_coding	c.3490C>T	p.Arg1164*
+chr1	21695149	G	A	PASS	3.62	stop_gained	HIGH	USP48	ENSG00000090686	transcript	ENST00000529637.5	protein_coding	c.2836C>T	p.Arg946*
+chr1	24350115	AAG	A	PASS	5.72	frameshift_variant	HIGH	GRHL3	ENSG00000158055	transcript	ENST00000361548.8	protein_coding	c.1688_1689delAG	p.Lys563fs
+chr1	24350118	CGAGGGTGAGTGCCTAGT	C	PASS	5.72	frameshift_variant&splice_donor_variant&splice_region_variant&intron_variant	HIGH	GRHL3	ENSG00000158055	transcript	ENST00000361548.8	protein_coding	c.1691_1694+13delGAGGGTGAGTGCCTAGT	p.Arg564fs
+chr1	26189363	C	T	PASS	5.69	stop_gained	HIGH	CNKSR1	ENSG00000142675	transcript	ENST00000374253.9	protein_coding	c.1978C>T	p.Gln660*
+chr1	32169862	GCCTGGTCTCTGGCCCCTAGGTA	G	PASS	6.29	splice_acceptor_variant&disruptive_inframe_deletion&splice_region_variant&intron_variant	HIGH	KPNA6	ENSG00000025800	transcript	ENST00000373625.8	protein_coding	c.1245-10_1256delTGGCCCCTAGGTACCTGGTCTC	p.Tyr416_Ser419del
+chr1	33010834	C	A	PASS	4.7	splice_acceptor_variant&intron_variant	HIGH	AK2	ENSG00000004455	transcript	ENST00000373449.7	protein_coding	c.695-1G>T	
+chr1	35359217	TGAAATACAAATTC	T	PASS	8.53	frameshift_variant	HIGH	ZMYM4	ENSG00000146463	transcript	ENST00000314607.11	protein_coding	c.379_391delGAAATACAAATTC	p.Glu127fs
+chr1	43697838	TCCAG	T	PASS	6.22	frameshift_variant&splice_acceptor_variant&splice_region_variant&intron_variant	HIGH	KDM4A	ENSG00000066135	transcript	ENST00000372396.4	protein_coding	c.2671-3_2671delCAGC	p.Arg891fs
+chr1	44777730	C	T	PASS	4.18	stop_gained	HIGH	RPS8	ENSG00000142937	transcript	ENST00000396651.8	protein_coding	c.328C>T	p.Arg110*
+chr1	53227128	G	A	PASS	4.52	stop_gained	HIGH	MAGOH	ENSG00000162385	transcript	ENST00000371470.8	protein_coding	c.358C>T	p.Arg120*
+chr1	70076176	C	T	PASS	8.23	stop_gained	HIGH	LRRC7	ENSG00000033122	transcript	ENST00000415775.2	protein_coding	c.2068C>T	p.Gln690*
+chr1	74471773	C	A	PASS	4.6	stop_gained	HIGH	LRRC53	ENSG00000162621	transcript	ENST00000294635.4	protein_coding	c.1849G>T	p.Glu617*
+chr1	88982857	G	A	PASS	4.53	stop_gained	HIGH	RBMXL1	ENSG00000213516	transcript	ENST00000321792.5	protein_coding	c.970C>T	p.Arg324*
+chr1	94506637	C	T	PASS	6.95	stop_gained	HIGH	ABCD3	ENSG00000117528	transcript	ENST00000370214.9	protein_coding	c.1840C>T	p.Arg614*
+chr1	108616429	G	A	PASS	4.17	splice_donor_variant&intron_variant	HIGH	FAM102B	ENSG00000162636	transcript	ENST00000370035.8	protein_coding	c.452+1G>A	
+chr1	108696046	C	T	PASS	13.08	stop_gained	HIGH	PRPF38B	ENSG00000134186	transcript	ENST00000370025.9	protein_coding	c.349C>T	p.Arg117*
+chr1	109296338	G	A	PASS	7.87	stop_gained	HIGH	MYBPHL	ENSG00000221986	transcript	ENST00000357155.2	protein_coding	c.763C>T	p.Arg255*
+chr1	113713347	G	A	PASS	6.66	stop_gained	HIGH	PHTF1	ENSG00000116793	transcript	ENST00000393357.6	protein_coding	c.715C>T	p.Arg239*
+chr1	146344448	G	A	PASS	5.39	stop_gained	HIGH	PPIAL4H	ENSG00000270339	transcript	ENST00000584068.3	protein_coding	c.268C>T	p.Arg90*
+chr1	147256563	G	A	PASS	8.66	splice_donor_variant&intron_variant	HIGH	CHD1L	ENSG00000131778	transcript	ENST00000369258.8	protein_coding	c.494+1G>A	
+chr1	149909833	G	A	PASS	4.61	stop_gained	HIGH	SV2A	ENSG00000159164	transcript	ENST00000369146.8	protein_coding	c.1147C>T	p.Arg383*
+chr1	154095060	G	A	PASS	4.23	stop_gained	HIGH	NUP210L	ENSG00000143552	transcript	ENST00000368559.7	protein_coding	c.2062C>T	p.Arg688*
+chr1	154141525	C	T	PASS	3.34	splice_acceptor_variant&intron_variant	HIGH	NUP210L	ENSG00000143552	transcript	ENST00000368559.7	protein_coding	c.473-1G>A	
+chr1	155339329	G	A	PASS	4.02	stop_gained&splice_region_variant	HIGH	ASH1L	ENSG00000116539	transcript	ENST00000368346.7	protein_coding	c.8515C>T	p.Arg2839*
+chr1	156948431	G	A	PASS	12.3	stop_gained	HIGH	ARHGEF11	ENSG00000132694	transcript	ENST00000368194.7	protein_coding	c.1993C>T	p.Arg665*
+chr1	162376534	C	T	PASS	4.51	splice_donor_variant&intron_variant	HIGH	SPATA46	ENSG00000171722	transcript	ENST00000493255.1	nonsense_mediated_decay	n.*133+1G>A	
+chr1	166994048	C	T	PASS	6.34	stop_gained	HIGH	MAEL	ENSG00000143194	transcript	ENST00000367872.9	protein_coding	c.502C>T	p.Arg168*
+chr1	169421738	TTG	T	PASS	5.83	frameshift_variant	HIGH	CCDC181	ENSG00000117477	transcript	ENST00000367806.7	protein_coding	c.691_692delCA	p.Gln231fs
+chr1	182903070	G	T	PASS	7.05	stop_gained	HIGH	SHCBP1L	ENSG00000157060	transcript	ENST00000367547.8	protein_coding	c.1679C>A	p.Ser560*
+chr1	185175114	G	A	PASS	7.76	splice_donor_variant&intron_variant	HIGH	SWT1	ENSG00000116668	transcript	ENST00000367500.9	protein_coding	c.966+1G>A	
+chr1	197125190	G	A	PASS	8.09	stop_gained&splice_region_variant	HIGH	ASPM	ENSG00000066279	transcript	ENST00000367409.9	protein_coding	c.2938C>T	p.Arg980*
+chr1	201414520	G	A	PASS	4.58	stop_gained&splice_region_variant	HIGH	TNNI1	ENSG00000159173	transcript	ENST00000622580.4	protein_coding	c.187C>T	p.Gln63*
+chr1	205064747	C	T	PASS	4.22	stop_gained	HIGH	CNTN2	ENSG00000184144	transcript	ENST00000331830.7	protein_coding	c.1516C>T	p.Arg506*
+chr1	225050207	TAGCC	T	PASS	6.0	splice_acceptor_variant&disruptive_inframe_deletion&splice_region_variant&intron_variant	HIGH	DNAH14	ENSG00000185842	transcript	ENST00000430092.5	protein_coding	c.1913-1_1915delGCCA	p.Thr639del
+chr1	228175017	C	T	PASS	8.68	stop_gained	HIGH	IBA57	ENSG00000181873	transcript	ENST00000366711.4	protein_coding	c.667C>T	p.Arg223*
+chr1	232807400	C	T	PASS	6.72	stop_gained	HIGH	MAP10	ENSG00000212916	transcript	ENST00000418460.2	protein_coding	c.2377C>T	p.Gln793*
+chr1	235724037	ATCAAATGCCAACAGGAGTGTTCTGCCATTTGTTAGAAAGATTTCTACAGCATTATCTC	A	PASS	10.83	frameshift_variant	HIGH	LYST	ENSG00000143669	transcript	ENST00000389793.7	protein_coding	c.9248_9305delGAGATAATGCTGTAGAAATCTTTCTAACAAATGGCAGAACACTCCTGTTGGCATTTGA	p.Arg3083fs
+chr1	237884769	G	A	PASS	4.38	stop_gained&splice_region_variant	HIGH	ZP4	ENSG00000116996	transcript	ENST00000366570.4	protein_coding	c.1390C>T	p.Arg464*
+chr1	248593125	G	T	PASS	3.26	stop_gained	HIGH	OR2T10	ENSG00000184022	transcript	ENST00000330500.4	protein_coding	c.644C>A	p.Ser215*
+chr2	17717168	A	T	PASS	5.67	stop_gained	HIGH	SMC6	ENSG00000163029	transcript	ENST00000351948.8	protein_coding	c.1101T>A	p.Tyr367*
+chr2	17931903	C	T	PASS	6.13	stop_gained	HIGH	KCNS3	ENSG00000170745	transcript	ENST00000304101.9	protein_coding	c.895C>T	p.Arg299*
+chr2	33134954	C	T	PASS	3.62	stop_gained	HIGH	LTBP1	ENSG00000049323	transcript	ENST00000418533.6	protein_coding	c.217C>T	p.Arg73*
+chr2	37060638	G	A	PASS	7.21	stop_gained	HIGH	HEATR5B	ENSG00000008869	transcript	ENST00000233099.6	protein_coding	c.1792C>T	p.Arg598*
+chr2	37072176	G	A	PASS	10.2	stop_gained	HIGH	HEATR5B	ENSG00000008869	transcript	ENST00000233099.6	protein_coding	c.703C>T	p.Arg235*
+chr2	46994376	CG	C	PASS	5.12	frameshift_variant	HIGH	TTC7A	ENSG00000068724	transcript	ENST00000394850.6	protein_coding	c.868delG	p.Val290fs
+chr2	53869535	G	A	PASS	10.46	stop_gained	HIGH	PSME4	ENSG00000068878	transcript	ENST00000404125.6	protein_coding	c.5104C>T	p.Arg1702*
+chr2	70677757	C	T	PASS	7.7	splice_donor_variant&intron_variant	HIGH	ADD2	ENSG00000075340	transcript	ENST00000264436.9	protein_coding	c.1503+1G>A	
+chr2	75690642	G	A	PASS	4.41	stop_gained	HIGH	GCFC2	ENSG00000005436	transcript	ENST00000321027.8	protein_coding	c.1222C>T	p.Arg408*
+chr2	111824980	C	T	PASS	8.61	stop_gained	HIGH	ANAPC1	ENSG00000153107	transcript	ENST00000341068.8	protein_coding	c.2798G>A	p.Trp933*
+chr2	117946870	G	A	PASS	9.34	stop_gained	HIGH	CCDC93	ENSG00000125633	transcript	ENST00000376300.7	protein_coding	c.1237C>T	p.Arg413*
+chr2	165991478	G	A	PASS	8.25	stop_gained	HIGH	SCN1A	ENSG00000144285	transcript	ENST00000303395.8	protein_coding	c.5797C>T	p.Arg1933*
+chr2	171050111	G	A	PASS	4.22	stop_gained	HIGH	TLK1	ENSG00000198586	transcript	ENST00000360843.7	protein_coding	c.859C>T	p.Arg287*
+chr2	178598993	TCC	T	PASS	5.47	frameshift_variant	HIGH	TTN	ENSG00000155657	transcript	ENST00000589042.5	protein_coding	c.56715_56716delGG	p.Trp18905fs
+chr2	197462609	A	T	PASS	3.85	stop_gained	HIGH	COQ10B	ENSG00000115520	transcript	ENST00000263960.6	protein_coding	c.325A>T	p.Lys109*
+chr2	219539620	TTGTTC	T	PASS	369.95	frameshift_variant	HIGH	CHPF	ENSG00000123989	transcript	ENST00000243776.11	protein_coding	c.2086_2090delGAACA	p.Glu696fs
+chr2	233498595	G	A	PASS	9.57	stop_gained	HIGH	USP40	ENSG00000085982	transcript	ENST00000450966.5	protein_coding	c.2701C>T	p.Arg901*
+chr3	44447252	G	A	PASS	6.01	stop_gained	HIGH	ZNF445	ENSG00000185219	transcript	ENST00000396077.8	protein_coding	c.2419C>T	p.Arg807*
+chr3	45722956	G	A	PASS	7.73	splice_donor_variant&intron_variant	HIGH	SACM1L	ENSG00000211456	transcript	ENST00000389061.10	protein_coding	c.852+1G>A	
+chr3	47116723	G	A	PASS	6.04	stop_gained	HIGH	SETD2	ENSG00000181555	transcript	ENST00000409792.3	protein_coding	c.4486C>T	p.Arg1496*
+chr3	48174451	G	A	PASS	4.54	stop_gained	HIGH	CDC25A	ENSG00000164045	transcript	ENST00000302506.8	protein_coding	c.763C>T	p.Arg255*
+chr3	49891788	G	A	PASS	7.92	stop_gained	HIGH	MST1R	ENSG00000164078	transcript	ENST00000296474.8	protein_coding	c.3322C>T	p.Arg1108*
+chr3	49910648	G	A	PASS	6.33	stop_gained	HIGH	MON1A	ENSG00000164077	transcript	ENST00000296473.7	protein_coding	c.1141C>T	p.Arg381*
+chr3	53888392	C	T	PASS	6.4	splice_donor_variant&intron_variant	HIGH	SELENOK	ENSG00000113811	transcript	ENST00000495461.6	protein_coding	c.110+1G>A	
+chr3	56434920	G	A	PASS	10.13	stop_gained	HIGH	ERC2	ENSG00000187672	transcript	ENST00000288221.11	protein_coding	c.88C>T	p.Arg30*
+chr3	65622003	TA	T	PASS	5.59	frameshift_variant	HIGH	MAGI1	ENSG00000151276	transcript	ENST00000402939.6	protein_coding	c.398delT	p.Ile133fs
+chr3	69009636	C	T	PASS	3.75	splice_donor_variant&intron_variant	HIGH	EOGT	ENSG00000163378	transcript	ENST00000383701.8	protein_coding	c.210+1G>A	
+chr3	101664597	G	A	PASS	6.47	stop_gained	HIGH	ZBTB11	ENSG00000066422	transcript	ENST00000312938.5	protein_coding	c.1741C>T	p.Arg581*
+chr3	102456375	G	A	PASS	5.01	splice_donor_variant&intron_variant	HIGH	ZPLD1	ENSG00000170044	transcript	ENST00000306176.5	protein_coding	c.557+1G>A	
+chr3	123947073	G	A	PASS	11.78	stop_gained	HIGH	CCDC14	ENSG00000175455	transcript	ENST00000488653.6	protein_coding	c.952C>T	p.Arg318*
+chr3	134209716	G	A	PASS	6.2	stop_gained	HIGH	RYK	ENSG00000163785	transcript	ENST00000620660.4	protein_coding	c.568C>T	p.Arg190*
+chr3	138734690	G	A	PASS	5.24	stop_gained	HIGH	PIK3CB	ENSG00000051382	transcript	ENST00000289153.6	protein_coding	c.916C>T	p.Arg306*
+chr3	142558777	C	T	PASS	7.0	splice_acceptor_variant&intron_variant	HIGH	ATR	ENSG00000175054	transcript	ENST00000350721.9	protein_coding	c.1733-1G>A	
+chr3	167684361	G	A	PASS	6.4	stop_gained	HIGH	PDCD10	ENSG00000114209	transcript	ENST00000392750.7	protein_coding	c.586C>T	p.Arg196*
+chr3	170708074	C	A	PASS	4.37	stop_gained	HIGH	AC026316.4	ENSG00000285218	transcript	ENST00000486975.1	protein_coding	c.422C>A	p.Ser141*
+chr3	171724702	G	T	PASS	4.07	stop_gained	HIGH	PLD1	ENSG00000075651	transcript	ENST00000351298.9	protein_coding	c.752C>A	p.Ser251*
+chr3	187669252	TCTGCCAAGAAGTA	T	PASS	5.92	frameshift_variant	HIGH	SST	ENSG00000157005	transcript	ENST00000287641.4	protein_coding	c.151_163delTACTTCTTGGCAG	p.Tyr51fs
+chr4	1986144	G	A	PASS	7.46	stop_gained	HIGH	NELFA	ENSG00000185049	transcript	ENST00000542778.5	protein_coding	c.838C>T	p.Arg280*
+chr4	42543937	G	A	PASS	10.51	stop_gained	HIGH	ATP8A1	ENSG00000124406	transcript	ENST00000381668.9	protein_coding	c.1702C>T	p.Arg568*
+chr4	71763803	C	T	PASS	9.75	splice_donor_variant&intron_variant	HIGH	GC	ENSG00000145321	transcript	ENST00000504199.5	protein_coding	c.663+1G>A	
+chr4	83306165	TCTACTCCACTAGAATTAGGAAAATAATGGTCACTTACAGGTAAAGGATCGAAGTTTTCATCCACTAAATGGTAGTTTC	T	PASS	7.6	frameshift_variant&splice_donor_variant&splice_region_variant&intron_variant	HIGH	HPSE	ENSG00000173083	transcript	ENST00000311412.10	protein_coding	c.1166_1206+37delGAAACTACCATTTAGTGGATGAAAACTTCGATCCTTTACCTGTAAGTGACCATTATTTTCCTAATTCTAGTGGAGTAG	p.Asn390fs
+chr4	93216858	C	T	PASS	11.46	stop_gained	HIGH	GRID2	ENSG00000152208	transcript	ENST00000282020.9	protein_coding	c.910C>T	p.Arg304*
+chr4	125468544	TATGGATTTGAGGAGTTATCATAC	T	PASS	7.48	frameshift_variant	HIGH	FAT4	ENSG00000196159	transcript	ENST00000335110.5	protein_coding	c.6727_6749delTTTGAGGAGTTATCATACATGGA	p.Phe2243fs
+chr4	127643956	G	A	PASS	6.18	stop_gained	HIGH	INTU	ENSG00000164066	transcript	ENST00000335251.11	protein_coding	c.582G>A	p.Trp194*
+chr4	137521544	G	A	PASS	11.31	stop_gained	HIGH	PCDH18	ENSG00000189184	transcript	ENST00000344876.8	protein_coding	c.2893C>T	p.Gln965*
+chr4	145125075	C	T	PASS	5.49	stop_gained	HIGH	ABCE1	ENSG00000164163	transcript	ENST00000296577.9	protein_coding	c.1726C>T	p.Arg576*
+chr4	150916677	C	T	PASS	3.88	stop_gained	HIGH	LRBA	ENSG00000198589	transcript	ENST00000357115.9	protein_coding	c.707G>A	p.Trp236*
+chr4	157303554	TG	T	PASS	5.49	frameshift_variant	HIGH	GRIA2	ENSG00000120251	transcript	ENST00000393815.6	protein_coding	c.92delG	p.Cys31fs
+chr4	168415800	C	A	PASS	5.27	splice_acceptor_variant&intron_variant	HIGH	DDX60L	ENSG00000181381	transcript	ENST00000505890.5	protein_coding	c.2727-1G>T	
+chr4	184629385	G	A	PASS	8.6	stop_gained	HIGH	CASP3	ENSG00000164305	transcript	ENST00000308394.9	protein_coding	c.721C>T	p.Arg241*
+chr4	186611393	AG	TT	PASS	6.4	stop_gained	HIGH	FAT1	ENSG00000083857	transcript	ENST00000614102.4	protein_coding	c.9851_9852delCTinsAA	p.Ser3284*
+chr5	843599	C	T	PASS	5.48	splice_donor_variant&intron_variant	HIGH	ZDHHC11	ENSG00000188818	transcript	ENST00000283441.12	protein_coding	c.628+1G>A	
+chr5	5239275	G	A	PASS	5.03	splice_donor_variant&intron_variant	HIGH	ADAMTS16	ENSG00000145536	transcript	ENST00000433402.2	retained_intron	n.2278+1G>A	
+chr5	35072607	G	A	PASS	5.57	stop_gained	HIGH	PRLR	ENSG00000113494	transcript	ENST00000618457.5	protein_coding	c.511C>T	p.Arg171*
+chr5	39306697	G	A	PASS	10.63	stop_gained	HIGH	C9	ENSG00000113600	transcript	ENST00000263408.5	protein_coding	c.1336C>T	p.Arg446*
+chr5	53048478	G	A	PASS	10.31	splice_donor_variant&intron_variant	HIGH	ITGA2	ENSG00000164171	transcript	ENST00000296585.10	protein_coding	c.502+1G>A	
+chr5	62398524	G	A	PASS	4.3	stop_gained	HIGH	DIMT1	ENSG00000086189	transcript	ENST00000199320.9	protein_coding	c.433C>T	p.Arg145*
+chr5	76654215	C	T	PASS	7.57	stop_gained	HIGH	IQGAP2	ENSG00000145703	transcript	ENST00000274364.11	protein_coding	c.2194C>T	p.Arg732*
+chr5	112204427	G	A	PASS	3.76	stop_gained	HIGH	EPB41L4A	ENSG00000129595	transcript	ENST00000261486.6	protein_coding	c.1324C>T	p.Arg442*
+chr5	135389127	C	A	PASS	4.82	splice_acceptor_variant&intron_variant	HIGH	MACROH2A1	ENSG00000113648	transcript	ENST00000510038.1	protein_coding	c.-33-1G>T	
+chr5	138508373	G	A	PASS	3.62	stop_gained	HIGH	ETF1	ENSG00000120705	transcript	ENST00000360541.10	protein_coding	c.1246C>T	p.Arg416*
+chr5	141399778	C	T	PASS	6.46	stop_gained	HIGH	PCDHGB5	ENSG00000276547	transcript	ENST00000617380.1	protein_coding	c.1651C>T	p.Arg551*
+chr5	147632697	G	A	PASS	9.44	stop_gained	HIGH	JAKMIP2	ENSG00000176049	transcript	ENST00000507386.5	protein_coding	c.1696C>T	p.Arg566*
+chr5	151527353	G	A	PASS	7.69	stop_gained	HIGH	FAT2	ENSG00000086570	transcript	ENST00000261800.5	protein_coding	c.10189C>T	p.Arg3397*
+chr5	154865386	G	A	PASS	5.19	splice_donor_variant&intron_variant	HIGH	CNOT8	ENSG00000155508	transcript	ENST00000285896.10	protein_coding	c.311+1G>A	
+chr5	160093704	G	A	PASS	6.09	stop_gained	HIGH	PWWP2A	ENSG00000170234	transcript	ENST00000307063.9	protein_coding	c.946C>T	p.Arg316*
+chr6	2970757	C	T	PASS	4.12	splice_donor_variant&intron_variant	HIGH	SERPINB6	ENSG00000124570	transcript	ENST00000612421.3	protein_coding	c.47+1G>A	
+chr6	7883236	G	A	PASS	4.29	stop_gained	HIGH	TXNDC5	ENSG00000239264	transcript	ENST00000379757.9	protein_coding	c.1207C>T	p.Arg403*
+chr6	8026375	G	A	PASS	4.0	stop_gained	HIGH	BLOC1S5	ENSG00000188428	transcript	ENST00000397457.7	protein_coding	c.376C>T	p.Arg126*
+chr6	10928406	C	T	PASS	4.69	stop_gained	HIGH	SYCP2L	ENSG00000153157	transcript	ENST00000283141.11	protein_coding	c.1444C>T	p.Gln482*
+chr6	15504530	C	T	PASS	9.7	stop_gained	HIGH	JARID2	ENSG00000008083	transcript	ENST00000341776.7	protein_coding	c.2479C>T	p.Arg827*
+chr6	20486688	C	T	PASS	3.59	splice_acceptor_variant&intron_variant	HIGH	E2F3	ENSG00000112242	transcript	ENST00000346618.8	protein_coding	c.885-1C>T	
+chr6	42934599	G	A	PASS	10.6	splice_donor_variant&intron_variant	HIGH	CNPY3	ENSG00000137161	transcript	ENST00000372836.5	protein_coding	c.275+1G>A	
+chr6	49744365	C	T	PASS	6.12	start_lost	HIGH	CRISP3	ENSG00000096006	transcript	ENST00000263045.8	protein_coding	c.3G>A	p.Met1?
+chr6	83523378	TAAAAAGGAAACATTATAAACCTCTCTCTTTTTCTATTTTTAAGGACAAAATTAGAAGATC	T	PASS	8.99	start_lost&conservative_inframe_deletion&splice_region_variant	HIGH	PRSS35	ENSG00000146250	transcript	ENST00000369700.4	protein_coding	c.-20-39_1delAGGAAACATTATAAACCTCTCTCTTTTTCTATTTTTAAGGACAAAATTAGAAGATCAAAA	p.Met1del
+chr6	96799281	TC	T	PASS	9.68	frameshift_variant	HIGH	GPR63	ENSG00000112218	transcript	ENST00000229955.4	protein_coding	c.450delG	p.Lys151fs
+chr6	98926925	G	A	PASS	4.44	stop_gained	HIGH	FBXL4	ENSG00000112234	transcript	ENST00000229971.2	protein_coding	c.64C>T	p.Arg22*
+chr6	99414624	C	T	PASS	3.8	stop_gained	HIGH	PNISR	ENSG00000132424	transcript	ENST00000369239.10	protein_coding	c.36G>A	p.Trp12*
+chr6	137156811	C	A	PASS	3.54	stop_gained	HIGH	IL22RA2	ENSG00000164485	transcript	ENST00000296980.7	protein_coding	c.241G>T	p.Gly81*
+chr6	149736612	G	A	PASS	8.48	stop_gained	HIGH	NUP43	ENSG00000120253	transcript	ENST00000340413.7	protein_coding	c.649C>T	p.Arg217*
+chr6	151353330	G	T	PASS	5.44	stop_gained	HIGH	AKAP12	ENSG00000131016	transcript	ENST00000253332.5	protein_coding	c.4939G>T	p.Glu1647*
+chr6	151366786	G	A	PASS	3.44	stop_gained	HIGH	ZBTB2	ENSG00000181472	transcript	ENST00000325144.5	protein_coding	c.280C>T	p.Arg94*
+chr6	158076771	TTG	T	PASS	6.33	frameshift_variant	HIGH	SYNJ2	ENSG00000078269	transcript	ENST00000355585.9	protein_coding	c.2439_2440delTG	p.Phe813fs
+chr6	158076774	AT	A	PASS	6.37	frameshift_variant	HIGH	SYNJ2	ENSG00000078269	transcript	ENST00000355585.9	protein_coding	c.2442delT	p.Asp814fs
+chr7	6526302	G	A	PASS	7.76	stop_gained	HIGH	GRID2IP	ENSG00000215045	transcript	ENST00000457091.2	protein_coding	c.841C>T	p.Arg281*
+chr7	30061916	TAA	T	PASS	6.62	frameshift_variant	HIGH	PLEKHA8	ENSG00000106086	transcript	ENST00000440706.3	protein_coding	c.1119_1120delAA	p.Thr374fs
+chr7	50544067	G	A	PASS	4.3	stop_gained	HIGH	DDC	ENSG00000132437	transcript	ENST00000357936.9	protein_coding	c.19C>T	p.Arg7*
+chr7	67083465	G	A	PASS	19.75	stop_gained	HIGH	TYW1	ENSG00000198874	transcript	ENST00000359626.10	protein_coding	c.1310G>A	p.Trp437*
+chr7	73447267	G	A	PASS	7.04	stop_gained	HIGH	BAZ1B	ENSG00000009954	transcript	ENST00000339594.9	protein_coding	c.3841C>T	p.Arg1281*
+chr7	80212719	C	T	PASS	4.57	stop_gained	HIGH	GNAI1	ENSG00000127955	transcript	ENST00000351004.8	protein_coding	c.724C>T	p.Arg242*
+chr7	99531686	C	T	PASS	10.69	stop_gained	HIGH	ZKSCAN5	ENSG00000196652	transcript	ENST00000326775.9	protein_coding	c.1957C>T	p.Arg653*
+chr7	105081686	AG	TT	PASS	5.72	splice_acceptor_variant&intron_variant	HIGH	KMT2E	ENSG00000005483	transcript	ENST00000257745.8	protein_coding	c.1249-2_1249-1delAGinsTT	
+chr7	116796095	C	T	PASS	4.55	stop_gained	HIGH	MET	ENSG00000105976	transcript	ENST00000318493.11	protein_coding	c.4198C>T	p.Arg1400*
+chr7	129464625	CAG	C	PASS	5.66	frameshift_variant	HIGH	STRIP2	ENSG00000128578	transcript	ENST00000249344.7	protein_coding	c.1666_1667delAG	p.Ser556fs
+chr7	139034678	CCT	AAA	PASS	5.62	splice_acceptor_variant&missense_variant&splice_region_variant&intron_variant	HIGH	ZC3HAV1L	ENSG00000146858	transcript	ENST00000275766.2	protein_coding	c.366-2_366delAGGinsTTT	p.Trp122Cys
+chr7	143222667	TTC	T	PASS	5.37	frameshift_variant	HIGH	TAS2R40	ENSG00000221937	transcript	ENST00000408947.4	protein_coding	c.591_592delCT	p.Phe197fs
+chr7	146839758	C	T	PASS	4.24	stop_gained	HIGH	CNTNAP2	ENSG00000174469	transcript	ENST00000361727.8	protein_coding	c.256C>T	p.Gln86*
+chr8	10898008	G	A	PASS	5.43	stop_gained	HIGH	XKR6	ENSG00000171044	transcript	ENST00000416569.3	protein_coding	c.1870C>T	p.Arg624*
+chr8	12729235	G	A	PASS	9.76	stop_gained	HIGH	LONRF1	ENSG00000154359	transcript	ENST00000525024.5	protein_coding	c.64C>T	p.Arg22*
+chr8	13090452	G	A	PASS	5.33	stop_gained	HIGH	DLC1	ENSG00000164741	transcript	ENST00000276297.9	protein_coding	c.3874C>T	p.Arg1292*
+chr8	85138131	C	T	PASS	4.61	stop_gained	HIGH	LRRCC1	ENSG00000133739	transcript	ENST00000360375.8	protein_coding	c.2590C>T	p.Gln864*
+chr8	102311478	G	A	PASS	10.35	stop_gained	HIGH	UBR5	ENSG00000104517	transcript	ENST00000520539.6	protein_coding	c.2437C>T	p.Arg813*
+chr8	120451237	C	T	PASS	6.81	stop_gained	HIGH	MTBP	ENSG00000172167	transcript	ENST00000305949.6	protein_coding	c.340C>T	p.Gln114*
+chr8	144516545	G	A	PASS	10.48	stop_gained	HIGH	RECQL4	ENSG00000160957	transcript	ENST00000617875.5	protein_coding	c.574C>T	p.Gln192*
+chr9	2643960	G	A	PASS	4.19	splice_donor_variant&intron_variant	HIGH	VLDLR	ENSG00000147852	transcript	ENST00000382100.8	protein_coding	c.1066+1G>A	
+chr9	19334986	C	T	PASS	4.09	stop_gained	HIGH	DENND4C	ENSG00000137145	transcript	ENST00000434457.6	protein_coding	c.2470C>T	p.Arg824*
+chr9	33935860	G	A	PASS	7.81	stop_gained	HIGH	UBAP2	ENSG00000137073	transcript	ENST00000360802.5	protein_coding	c.1948C>T	p.Arg650*
+chr9	34372390	C	T	PASS	7.24	stop_gained	HIGH	MYORG	ENSG00000164976	transcript	ENST00000297625.8	protein_coding	c.554G>A	p.Trp185*
+chr9	35819195	A	T	PASS	5.09	splice_donor_variant&intron_variant	HIGH	FAM221B	ENSG00000204930	transcript	ENST00000423537.7	protein_coding	c.1051+2T>A	
+chr9	38595791	G	A	PASS	6.46	stop_gained	HIGH	ANKRD18A	ENSG00000180071	transcript	ENST00000399703.6	protein_coding	c.1549C>T	p.Arg517*
+chr9	77293509	G	A	PASS	5.27	splice_donor_variant&intron_variant	HIGH	VPS13A	ENSG00000197969	transcript	ENST00000360280.8	protein_coding	c.3507+1G>A	
+chr9	100303796	G	A	PASS	4.44	stop_gained	HIGH	TEX10	ENSG00000136891	transcript	ENST00000374902.9	protein_coding	c.2512C>T	p.Arg838*
+chr9	101430878	G	A	PASS	4.85	stop_gained	HIGH	ALDOB	ENSG00000136872	transcript	ENST00000616752.1	protein_coding	c.10C>T	p.Arg4*
+chr9	109389241	G	A	PASS	7.45	stop_gained	HIGH	PTPN3	ENSG00000070159	transcript	ENST00000412145.5	protein_coding	c.1852C>T	p.Arg618*
+chr9	111384560	G	A	PASS	11.06	stop_gained	HIGH	ECPAS	ENSG00000136813	transcript	ENST00000259335.8	protein_coding	c.4177C>T	p.Arg1393*
+chr9	111785993	G	A	PASS	6.83	stop_gained	HIGH	SHOC1	ENSG00000165181	transcript	ENST00000374283.5	protein_coding	c.88C>T	p.Arg30*
+chr9	113461846	C	T	PASS	6.52	stop_gained	HIGH	RGS3	ENSG00000138835	transcript	ENST00000374140.6	protein_coding	c.220C>T	p.Arg74*
+chr9	125484467	G	A	PASS	8.22	stop_gained	HIGH	MAPKAP1	ENSG00000119487	transcript	ENST00000265960.8	protein_coding	c.1183C>T	p.Arg395*
+chr9	131432624	TA	T	PASS	6.79	frameshift_variant	HIGH	PRRC2B	ENSG00000130723	transcript	ENST00000638390.1	protein_coding	c.124delA	p.Arg42fs
+chr9	133255811	TTC	T	PASS	7.61	frameshift_variant	HIGH	ABO	ENSG00000175164	transcript	ENST00000538324.2	protein_coding	c.915_916delGA	p.Asn306fs
+chr10	48112	G	A	PASS	5.81	stop_gained&splice_region_variant	HIGH	TUBB8	ENSG00000261456	transcript	ENST00000568584.5	protein_coding	c.280C>T	p.Gln94*
+chr10	11955438	G	A	PASS	4.5	stop_gained	HIGH	UPF2	ENSG00000151461	transcript	ENST00000356352.6	protein_coding	c.2644C>T	p.Arg882*
+chr10	13613777	A	T	PASS	8.37	stop_gained	HIGH	PRPF18	ENSG00000165630	transcript	ENST00000378572.8	protein_coding	c.616A>T	p.Arg206*
+chr10	14945110	G	A	PASS	6.13	stop_gained	HIGH	DCLRE1C	ENSG00000152457	transcript	ENST00000378278.7	protein_coding	c.241C>T	p.Arg81*
+chr10	14949076	C	A	PASS	3.7	stop_gained	HIGH	DCLRE1C	ENSG00000152457	transcript	ENST00000378278.7	protein_coding	c.121G>T	p.Gly41*
+chr10	15606407	G	A	PASS	5.67	stop_gained	HIGH	ITGA8	ENSG00000077943	transcript	ENST00000378076.4	protein_coding	c.1780C>T	p.Arg594*
+chr10	15837634	C	A	PASS	4.02	splice_acceptor_variant&intron_variant	HIGH	MINDY3	ENSG00000148481	transcript	ENST00000436829.1	protein_coding	c.-72-1G>T	
+chr10	27944380	G	A	PASS	4.87	stop_gained	HIGH	ARMC4	ENSG00000169126	transcript	ENST00000305242.10	protein_coding	c.1585C>T	p.Gln529*
+chr10	32035652	G	A	PASS	9.08	stop_gained	HIGH	KIF5B	ENSG00000170759	transcript	ENST00000302418.5	protein_coding	c.832C>T	p.Arg278*
+chr10	48822394	CAG	C	PASS	6.3	frameshift_variant	HIGH	WDFY4	ENSG00000128815	transcript	ENST00000325239.11	protein_coding	c.5840_5841delAG	p.Gln1947fs
+chr10	48913403	CC	TT	PASS	6.42	stop_gained	HIGH	LRRC18	ENSG00000165383	transcript	ENST00000374160.7	protein_coding	c.752_753delGGinsAA	p.Trp251*
+chr10	49085969	C	T	PASS	4.63	stop_gained	HIGH	VSTM4	ENSG00000165633	transcript	ENST00000332853.9	protein_coding	c.512G>A	p.Trp171*
+chr10	60080600	G	A	PASS	6.12	stop_gained	HIGH	ANK3	ENSG00000151150	transcript	ENST00000280772.7	protein_coding	c.4369C>T	p.Arg1457*
+chr10	63990265	TCA	T	PASS	5.61	splice_acceptor_variant&splice_region_variant&intron_variant	HIGH	AC013287.1	ENSG00000228566	transcript	ENST00000444770.1	pseudogene	n.495-3_495-2delCA	
+chr10	69016195	C	T	PASS	12.55	stop_gained	HIGH	KIFBP	ENSG00000198954	transcript	ENST00000361983.7	protein_coding	c.1645C>T	p.Arg549*
+chr10	72068253	G	A	PASS	6.68	stop_gained	HIGH	SPOCK2	ENSG00000107742	transcript	ENST00000317376.8	protein_coding	c.523C>T	p.Arg175*
+chr10	73763879	C	T	PASS	4.34	stop_gained	HIGH	SEC24C	ENSG00000176986	transcript	ENST00000345254.9	protein_coding	c.1123C>T	p.Arg375*
+chr10	79201672	C	T	PASS	4.34	stop_gained	HIGH	ZMIZ1	ENSG00000108175	transcript	ENST00000611351.1	protein_coding	c.40C>T	p.Arg14*
+chr10	80352482	A	T	PASS	4.12	stop_gained	HIGH	DYDC1	ENSG00000170788	transcript	ENST00000372204.7	protein_coding	c.120T>A	p.Tyr40*
+chr10	96373641	CCG	C	PASS	5.84	frameshift_variant	HIGH	TLL2	ENSG00000095587	transcript	ENST00000357947.4	protein_coding	c.2615_2616delCG	p.Ser872fs
+chr10	115096644	G	A	PASS	3.97	splice_acceptor_variant&intron_variant	HIGH	ATRNL1	ENSG00000107518	transcript	ENST00000616894.1	nonsense_mediated_decay	n.93-1G>A	
+chr11	870450	G	A	PASS	3.96	stop_gained	HIGH	CHID1	ENSG00000177830	transcript	ENST00000323578.13	protein_coding	c.1009C>T	p.Gln337*
+chr11	4653430	C	T	PASS	6.25	stop_gained	HIGH	OR51E1	ENSG00000180785	transcript	ENST00000396952.6	protein_coding	c.904C>T	p.Arg302*
+chr11	7666450	C	T	PASS	8.76	splice_donor_variant&intron_variant	HIGH	CYB5R2	ENSG00000166394	transcript	ENST00000299498.11	protein_coding	c.658+1G>A	
+chr11	17147522	G	A	PASS	6.52	stop_gained	HIGH	PIK3C2A	ENSG00000011405	transcript	ENST00000265970.11	protein_coding	c.1555C>T	p.Arg519*
+chr11	22274514	TATTAAAACTAAATTGGCAGCTGATGATCTTCCTCTTTTTTTTTTTATTCTTCAGGCCTTTATTGTTGCATTTACGTCAGACATC	T	PASS	8.99	splice_acceptor_variant&conservative_inframe_deletion&splice_region_variant&intron_variant	HIGH	ANO5	ENSG00000171714	transcript	ENST00000324559.8	protein_coding	c.2236-51_2268delAAAACTAAATTGGCAGCTGATGATCTTCCTCTTTTTTTTTTTATTCTTCAGGCCTTTATTGTTGCATTTACGTCAGACATCATT	p.Ala746_Pro757del
+chr11	33552242	G	T	PASS	5.69	splice_donor_variant&intron_variant	HIGH	KIAA1549L	ENSG00000110427	transcript	ENST00000321505.9	protein_coding	c.2964+1G>T	
+chr11	47176811	TAA	T	PASS	330.51	frameshift_variant	HIGH	ARFGAP2	ENSG00000149182	transcript	ENST00000524782.6	protein_coding	c.41_42delTT	p.Phe14fs
+chr11	47815604	G	A	PASS	8.15	stop_gained	HIGH	NUP160	ENSG00000030066	transcript	ENST00000378460.6	protein_coding	c.1561C>T	p.Arg521*
+chr11	62589165	G	A	PASS	4.65	stop_gained	HIGH	TUT1	ENSG00000149016	transcript	ENST00000308436.11	protein_coding	c.253C>T	p.Arg85*
+chr11	65634170	G	A	PASS	5.65	stop_gained	HIGH	PCNX3	ENSG00000197136	transcript	ENST00000355703.3	protein_coding	c.4515G>A	p.Trp1505*
+chr11	66424064	C	T	PASS	10.09	stop_gained	HIGH	NPAS4	ENSG00000174576	transcript	ENST00000311034.7	protein_coding	c.1174C>T	p.Arg392*
+chr11	94447276	G	A	PASS	6.88	stop_gained	HIGH	MRE11	ENSG00000020922	transcript	ENST00000323929.7	protein_coding	c.1726C>T	p.Arg576*
+chr11	114522878	C	T	PASS	5.49	splice_donor_variant&intron_variant	HIGH	NXPE1	ENSG00000095110	transcript	ENST00000536271.5	retained_intron	n.1500+1G>A	
+chr11	117910706	C	T	PASS	5.87	splice_donor_variant&intron_variant	HIGH	TMPRSS13	ENSG00000137747	transcript	ENST00000445164.6	protein_coding	c.946+1G>A	
+chr11	119190709	C	T	PASS	14.87	splice_donor_variant&intron_variant	HIGH	CCDC153	ENSG00000248712	transcript	ENST00000415318.2	protein_coding	c.480+1G>A	
+chr11	125895984	G	A	PASS	9.03	stop_gained	HIGH	PUS3	ENSG00000110060	transcript	ENST00000227474.8	protein_coding	c.301C>T	p.Arg101*
+chr11	134206682	TTC	T	PASS	5.51	frameshift_variant	HIGH	NCAPD3	ENSG00000151503	transcript	ENST00000534548.6	protein_coding	c.931_932delGA	p.Glu311fs
+chr12	6573073	C	T	PASS	6.81	splice_donor_variant&intron_variant	HIGH	CHD4	ENSG00000111642	transcript	ENST00000544484.6	protein_coding	c.5632+1G>A	
+chr12	15137923	G	A	PASS	10.53	stop_gained	HIGH	RERG	ENSG00000134533	transcript	ENST00000545567.5	protein_coding	c.7C>T	p.Arg3*
+chr12	27737609	GT	G	PASS	5.31	splice_donor_variant&intron_variant	HIGH	MRPS35	ENSG00000061794	transcript	ENST00000081029.8	protein_coding	c.702+2delT	
+chr12	30674660	G	A	PASS	9.72	stop_gained&splice_region_variant	HIGH	IPO8	ENSG00000133704	transcript	ENST00000256079.9	protein_coding	c.823C>T	p.Arg275*
+chr12	32737153	C	T	PASS	8.12	stop_gained	HIGH	DNM1L	ENSG00000087470	transcript	ENST00000452533.6	protein_coding	c.1588C>T	p.Arg530*
+chr12	44703771	G	A	PASS	8.12	stop_gained	HIGH	NELL2	ENSG00000184613	transcript	ENST00000395487.6	protein_coding	c.1270C>T	p.Arg424*
+chr12	56181757	TG	T	PASS	5.92	frameshift_variant	HIGH	SMARCC2	ENSG00000139613	transcript	ENST00000394023.7	protein_coding	c.786delC	p.Asp262fs
+chr12	68155354	TACTGGGATGCTCTTCGACCTCGAAACAGCATCTGACTCCTTTTTCGCTTCCCTGTTTTAGCTGCTGGCGACAGTTCAGCCATC	T	PASS	11.94	frameshift_variant&stop_lost	HIGH	IFNG	ENSG00000111537	transcript	ENST00000229135.4	protein_coding	c.417_499delGATGGCTGAACTGTCGCCAGCAGCTAAAACAGGGAAGCGAAAAAGGAGTCAGATGCTGTTTCGAGGTCGAAGAGCATCCCAGT	p.Met140fs
+chr12	88131209	G	A	PASS	10.5	stop_gained	HIGH	CEP290	ENSG00000198707	transcript	ENST00000552810.6	protein_coding	c.451C>T	p.Arg151*
+chr12	96679595	TTCAG	T	PASS	6.0	splice_acceptor_variant&splice_region_variant&intron_variant	HIGH	CFAP54	ENSG00000188596	transcript	ENST00000342887.1	retained_intron	n.917-4_917-1delTCAG	
+chr12	100097412	G	A	PASS	4.26	stop_gained	HIGH	UHRF1BP1L	ENSG00000111647	transcript	ENST00000279907.12	protein_coding	c.622C>T	p.Arg208*
+chr12	104098388	C	T	PASS	4.79	stop_gained	HIGH	HCFC2	ENSG00000111727	transcript	ENST00000229330.9	protein_coding	c.1786C>T	p.Arg596*
+chr12	106433832	C	T	PASS	3.84	stop_gained	HIGH	POLR3B	ENSG00000013503	transcript	ENST00000228347.9	protein_coding	c.1741C>T	p.Arg581*
+chr12	109308235	C	T	PASS	7.14	splice_donor_variant&intron_variant	HIGH	FOXN4	ENSG00000139445	transcript	ENST00000299162.10	protein_coding	c.86+1G>A	
+chr12	118201367	G	A	PASS	7.16	stop_gained	HIGH	TAOK3	ENSG00000135090	transcript	ENST00000392533.8	protein_coding	c.916C>T	p.Arg306*
+chr12	120996743	G	A	PASS	4.06	splice_donor_variant&intron_variant	HIGH	HNF1A	ENSG00000135100	transcript	ENST00000257555.10	protein_coding	c.1309+1G>A	
+chr12	121903063	C	T	PASS	4.53	stop_gained	HIGH	PSMD9	ENSG00000110801	transcript	ENST00000541212.6	protein_coding	c.511C>T	p.Gln171*
+chr13	24321676	C	T	PASS	7.37	stop_gained	HIGH	C1QTNF9	ENSG00000240654	transcript	ENST00000332018.4	protein_coding	c.910C>T	p.Gln304*
+chr13	24864944	TATGGC	T	PASS	5.61	frameshift_variant	HIGH	RNF17	ENSG00000132972	transcript	ENST00000255324.10	protein_coding	c.4050_4054delGGCAT	p.Met1350fs
+chr13	77602141	C	T	PASS	4.04	splice_donor_variant&intron_variant	HIGH	SCEL-AS1	ENSG00000224347	transcript	ENST00000456280.2	pseudogene	n.269+1G>A	
+chr13	85795884	G	A	PASS	7.4	stop_gained	HIGH	SLITRK6	ENSG00000184564	transcript	ENST00000643778.1	protein_coding	c.625C>T	p.Arg209*
+chr13	94462077	G	A	PASS	7.79	stop_gained	HIGH	DCT	ENSG00000080166	transcript	ENST00000446125.1	protein_coding	c.976C>T	p.Arg326*
+chr13	113498384	C	T	PASS	18.24	stop_gained	HIGH	TMCO3	ENSG00000150403	transcript	ENST00000434316.7	protein_coding	c.487C>T	p.Gln163*
+chr13	114282835	A	G	PASS	5.41	splice_acceptor_variant&intron_variant	HIGH	UPF3A	ENSG00000169062	transcript	ENST00000375299.8	protein_coding	c.315-2A>G	
+chr14	34603472	C	T	PASS	6.75	splice_acceptor_variant&intron_variant	HIGH	SNX6	ENSG00000129515	transcript	ENST00000362031.10	protein_coding	c.393-1G>A	
+chr14	54955696	T	A	PASS	6.61	splice_acceptor_variant&intron_variant	HIGH	WDHD1	ENSG00000198554	transcript	ENST00000360586.8	protein_coding	c.2917-2A>T	
+chr14	58508566	G	T	PASS	7.48	stop_gained	HIGH	KIAA0586	ENSG00000100578	transcript	ENST00000619416.4	protein_coding	c.4135G>T	p.Glu1379*
+chr14	76789374	G	A	PASS	7.84	stop_gained	HIGH	ANGEL1	ENSG00000013523	transcript	ENST00000251089.7	protein_coding	c.1867C>T	p.Arg623*
+chr14	76803396	C	T	PASS	4.79	start_lost	HIGH	ANGEL1	ENSG00000013523	transcript	ENST00000555079.1	protein_coding	c.3G>A	p.Met1?
+chr14	77437869	G	A	PASS	4.06	stop_gained	HIGH	VIPAS39	ENSG00000151445	transcript	ENST00000343765.6	protein_coding	c.775C>T	p.Arg259*
+chr14	80777881	C	T	PASS	4.11	splice_donor_variant&intron_variant	HIGH	CEP128	ENSG00000100629	transcript	ENST00000281129.7	protein_coding	c.2376+1G>A	
+chr14	89797314	G	A	PASS	5.98	stop_gained	HIGH	EFCAB11	ENSG00000140025	transcript	ENST00000555872.5	protein_coding	c.349C>T	p.Arg117*
+chr14	92003760	G	A	PASS	17.15	stop_gained	HIGH	TRIP11	ENSG00000100815	transcript	ENST00000267622.8	protein_coding	c.4216C>T	p.Gln1406*
+chr14	94563506	CCT	C	PASS	5.61	frameshift_variant	HIGH	SERPINA4	ENSG00000100665	transcript	ENST00000298841.5	protein_coding	c.26_27delTC	p.Leu9fs
+chr15	34238393	G	A	PASS	3.95	stop_gained	HIGH	SLC12A6	ENSG00000140199	transcript	ENST00000354181.8	protein_coding	c.2641C>T	p.Arg881*
+chr15	34365668	G	A	PASS	5.4	stop_gained	HIGH	LPCAT4	ENSG00000176454	transcript	ENST00000314891.11	protein_coding	c.148C>T	p.Arg50*
+chr15	40008067	C	T	PASS	8.2	stop_gained	HIGH	EIF2AK4	ENSG00000128829	transcript	ENST00000263791.10	protein_coding	c.3448C>T	p.Arg1150*
+chr15	45488849	G	A	PASS	4.15	stop_gained	HIGH	SLC30A4	ENSG00000104154	transcript	ENST00000261867.5	protein_coding	c.886C>T	p.Arg296*
+chr15	52416225	G	A	PASS	5.8	stop_gained	HIGH	MYO5A	ENSG00000197535	transcript	ENST00000399231.7	protein_coding	c.532C>T	p.Arg178*
+chr15	56653537	G	A	PASS	3.61	stop_gained	HIGH	AC090517.4	ENSG00000285253	transcript	ENST00000559000.6	protein_coding	c.2200C>T	p.Arg734*
+chr15	59137433	G	A	PASS	10.73	stop_gained	HIGH	MYO1E	ENSG00000157483	transcript	ENST00000288235.9	protein_coding	c.3274C>T	p.Arg1092*
+chr15	63649734	G	A	PASS	4.36	stop_gained	HIGH	HERC1	ENSG00000103657	transcript	ENST00000443617.7	protein_coding	c.10738C>T	p.Arg3580*
+chr15	64400758	G	T	PASS	4.34	stop_gained	HIGH	TRIP4	ENSG00000103671	transcript	ENST00000261884.8	protein_coding	c.634G>T	p.Glu212*
+chr15	65877388	C	T	PASS	4.27	stop_gained	HIGH	RAB11A	ENSG00000103769	transcript	ENST00000261890.7	protein_coding	c.97C>T	p.Arg33*
+chr15	67304339	C	T	PASS	7.15	stop_gained&splice_region_variant	HIGH	IQCH	ENSG00000103599	transcript	ENST00000512104.5	protein_coding	c.388C>T	p.Arg130*
+chr15	68787412	C	T	PASS	7.4	splice_donor_variant&intron_variant	HIGH	ANP32A	ENSG00000140350	transcript	ENST00000465139.6	protein_coding	c.327+1G>A	
+chr15	72265967	G	A	PASS	4.49	stop_gained	HIGH	PARP6	ENSG00000137817	transcript	ENST00000419739.7	protein_coding	c.106C>T	p.Arg36*
+chr15	77180669	G	A	PASS	10.2	stop_gained	HIGH	PEAK1	ENSG00000173517	transcript	ENST00000558305.5	protein_coding	c.1258C>T	p.Arg420*
+chr15	101177864	G	A	PASS	6.13	stop_gained	HIGH	CHSY1	ENSG00000131873	transcript	ENST00000254190.4	protein_coding	c.1933C>T	p.Arg645*
+chr16	3662123	G	A	PASS	4.58	stop_gained	HIGH	TRAP1	ENSG00000126602	transcript	ENST00000246957.10	protein_coding	c.1804C>T	p.Arg602*
+chr16	4858077	G	A	PASS	7.97	splice_donor_variant&intron_variant	HIGH	UBN1	ENSG00000118900	transcript	ENST00000262376.11	protein_coding	c.336+1G>A	
+chr16	24959683	G	A	PASS	7.35	stop_gained	HIGH	ARHGAP17	ENSG00000140750	transcript	ENST00000289968.11	protein_coding	c.712C>T	p.Arg238*
+chr16	46957221	CTTTA	C	PASS	6.64	splice_acceptor_variant&splice_region_variant&intron_variant	HIGH	DNAJA2	ENSG00000069345	transcript	ENST00000317089.10	protein_coding	c.1048-5_1048-2delTAAA	
+chr16	50315103	C	T	PASS	8.32	stop_gained	HIGH	ADCY7	ENSG00000121281	transcript	ENST00000254235.7	protein_coding	c.3061C>T	p.Arg1021*
+chr16	68053602	C	T	PASS	4.56	stop_gained	HIGH	DUS2	ENSG00000167264	transcript	ENST00000565263.6	protein_coding	c.211C>T	p.Arg71*
+chr16	68811854	C	T	PASS	228.38	stop_gained	HIGH	CDH1	ENSG00000039068	transcript	ENST00000261769.10	protein_coding	c.1003C>T	p.Arg335*
+chr16	72811907	G	A	PASS	4.29	stop_gained&splice_region_variant	HIGH	ZFHX3	ENSG00000140836	transcript	ENST00000268489.10	protein_coding	c.3661C>T	p.Gln1221*
+chr16	77212142	C	T	PASS	4.78	stop_gained	HIGH	SYCE1L	ENSG00000205078	transcript	ENST00000378644.5	protein_coding	c.436C>T	p.Arg146*
+chr16	83960602	C	T	PASS	4.46	stop_gained	HIGH	OSGIN1	ENSG00000140961	transcript	ENST00000393306.6	protein_coding	c.238C>T	p.Arg80*
+chr16	89828607	CTG	C	PASS	6.68	frameshift_variant	HIGH	SPIRE2	ENSG00000204991	transcript	ENST00000378247.8	protein_coding	c.58_59delTG	p.Trp20fs
+chr16	89828610	G	A	PASS	6.67	stop_gained	HIGH	SPIRE2	ENSG00000204991	transcript	ENST00000378247.8	protein_coding	c.60G>A	p.Trp20*
+chr17	2676607	G	A	PASS	9.8	splice_donor_variant&intron_variant	HIGH	PAFAH1B1	ENSG00000007168	transcript	ENST00000397195.10	protein_coding	c.1002+1G>A	
+chr17	4545030	G	A	PASS	5.85	splice_donor_variant&intron_variant	HIGH	MYBBP1A	ENSG00000132382	transcript	ENST00000572759.1	protein_coding	c.93+2C>T	
+chr17	8291337	C	T	PASS	13.0	stop_gained	HIGH	SLC25A35	ENSG00000125434	transcript	ENST00000577745.2	protein_coding	c.590G>A	p.Trp197*
+chr17	16422879	CTT	C	PASS	5.48	frameshift_variant	HIGH	TRPV2	ENSG00000187688	transcript	ENST00000338560.12	protein_coding	c.618_619delTT	p.Phe206fs
+chr17	29667207	G	A	PASS	4.57	stop_gained	HIGH	SSH2	ENSG00000141298	transcript	ENST00000269033.7	protein_coding	c.745C>T	p.Arg249*
+chr17	40033058	G	A	PASS	7.11	stop_gained&splice_region_variant	HIGH	MED24	ENSG00000008838	transcript	ENST00000394126.5	protein_coding	c.895C>T	p.Gln299*
+chr17	41439232	G	A	PASS	8.87	stop_gained	HIGH	KRT38	ENSG00000171360	transcript	ENST00000246646.3	protein_coding	c.703C>T	p.Gln235*
+chr17	44195799	C	A	PASS	4.44	splice_donor_variant&intron_variant	HIGH	ATXN7L3	ENSG00000087152	transcript	ENST00000454077.6	protein_coding	c.573+1G>T	
+chr17	47816422	TCC	T	PASS	8.56	frameshift_variant	HIGH	OSBPL7	ENSG00000006025	transcript	ENST00000007414.8	protein_coding	c.987_988delGG	p.Asp330fs
+chr17	49844073	G	A	PASS	6.29	stop_gained	HIGH	TAC4	ENSG00000176358	transcript	ENST00000334568.8	protein_coding	c.208C>T	p.Arg70*
+chr17	55047111	AGC	A	PASS	5.42	frameshift_variant	HIGH	STXBP4	ENSG00000166263	transcript	ENST00000376352.6	protein_coding	c.969_970delGC	p.Gln324fs
+chr17	59682779	C	T	PASS	13.88	stop_gained	HIGH	CLTC	ENSG00000141367	transcript	ENST00000393043.5	protein_coding	c.3751C>T	p.Arg1251*
+chr17	63483172	C	T	PASS	6.76	stop_gained&splice_region_variant	HIGH	ACE	ENSG00000159640	transcript	ENST00000290866.10	protein_coding	c.1486C>T	p.Arg496*
+chr17	67151106	G	A	PASS	10.39	stop_gained	HIGH	HELZ	ENSG00000198265	transcript	ENST00000580168.5	protein_coding	c.2299C>T	p.Arg767*
+chr18	6978235	G	A	PASS	5.76	stop_gained	HIGH	LAMA1	ENSG00000101680	transcript	ENST00000389658.4	protein_coding	c.6151C>T	p.Arg2051*
+chr18	10677805	G	A	PASS	7.74	stop_gained	HIGH	PIEZO2	ENSG00000154864	transcript	ENST00000503781.7	protein_coding	c.7684C>T	p.Arg2562*
+chr18	56618091	A	T	PASS	4.4	stop_gained	HIGH	TXNL1	ENSG00000091164	transcript	ENST00000217515.11	protein_coding	c.405T>A	p.Cys135*
+chr18	57731672	G	A	PASS	10.12	stop_gained	HIGH	ATP8B1	ENSG00000081923	transcript	ENST00000648908.1	protein_coding	c.136C>T	p.Arg46*
+chr18	62905232	C	T	PASS	4.17	stop_gained	HIGH	PHLPP1	ENSG00000081913	transcript	ENST00000262719.10	protein_coding	c.2656C>T	p.Gln886*
+chr19	2877781	C	T	PASS	7.83	stop_gained	HIGH	ZNF556	ENSG00000172000	transcript	ENST00000586426.5	protein_coding	c.820C>T	p.Arg274*
+chr19	6754130	G	A	PASS	13.54	stop_gained	HIGH	SH2D3A	ENSG00000125731	transcript	ENST00000245908.11	protein_coding	c.1306C>T	p.Arg436*
+chr19	8065962	C	T	PASS	16.57	stop_gained	HIGH	FBN3	ENSG00000142449	transcript	ENST00000600128.6	protein_coding	c.8387G>A	p.Trp2796*
+chr19	17611856	C	T	PASS	5.41	splice_acceptor_variant&intron_variant	HIGH	UNC13A	ENSG00000130477	transcript	ENST00000517497.2	retained_intron	n.367-1G>A	
+chr19	22759575	G	A	PASS	5.11	stop_gained	HIGH	ZNF99	ENSG00000213973	transcript	ENST00000397104.5	protein_coding	c.397C>T	p.Arg133*
+chr19	32480558	G	A	PASS	7.35	splice_donor_variant&intron_variant	HIGH	DPY19L3	ENSG00000178904	transcript	ENST00000592142.5	retained_intron	n.2159+1G>A	
+chr19	35742769	G	A	PASS	7.22	stop_gained	HIGH	U2AF1L4	ENSG00000161265	transcript	ENST00000378975.8	protein_coding	c.496C>T	p.Arg166*
+chr19	36749980	G	A	PASS	161.44	stop_gained	HIGH	ZNF850	ENSG00000267041	transcript	ENST00000591344.2	protein_coding	c.1060C>T	p.Arg354*
+chr19	39297970	G	T	PASS	4.17	stop_gained	HIGH	IFNL1	ENSG00000182393	transcript	ENST00000333625.3	protein_coding	c.256G>T	p.Glu86*
+chr19	39471608	C	T	PASS	8.52	stop_gained	HIGH	SUPT5H	ENSG00000196235	transcript	ENST00000432763.7	protein_coding	c.1828C>T	p.Arg610*
+chr19	44081099	C	T	PASS	6.69	stop_gained	HIGH	ZNF284	ENSG00000186026	transcript	ENST00000421176.4	protein_coding	c.100C>T	p.Arg34*
+chr19	47538497	C	A	PASS	4.32	splice_acceptor_variant&intron_variant	HIGH	ZNF541	ENSG00000118156	transcript	ENST00000314121.8	protein_coding	c.2797-1G>T	
+chr19	49139666	A	T	PASS	7.31	splice_acceptor_variant&intron_variant	HIGH	PPFIA3	ENSG00000177380	transcript	ENST00000334186.9	protein_coding	c.2077-2A>T	
+chr19	50513333	G	A	PASS	7.25	stop_gained	HIGH	ASPDH	ENSG00000204653	transcript	ENST00000389208.9	protein_coding	c.136C>T	p.Arg46*
+chr19	53141738	G	A	PASS	4.74	stop_gained	HIGH	ZNF347	ENSG00000197937	transcript	ENST00000334197.11	protein_coding	c.1090C>T	p.Arg364*
+chr20	20605364	G	A	PASS	7.54	stop_gained	HIGH	RALGAPA2	ENSG00000188559	transcript	ENST00000495793.2	protein_coding	c.49C>T	p.Arg17*
+chr20	46079391	G	A	PASS	6.86	stop_gained	HIGH	NCOA5	ENSG00000124160	transcript	ENST00000290231.11	protein_coding	c.34C>T	p.Arg12*
+chr20	62860124	C	T	PASS	4.8	splice_donor_variant&intron_variant	HIGH	TCFL5	ENSG00000101190	transcript	ENST00000335351.8	protein_coding	c.831+1G>A	
+chr20	63359619	G	A	PASS	5.66	stop_gained	HIGH	CHRNA4	ENSG00000101204	transcript	ENST00000370263.9	protein_coding	c.157C>T	p.Arg53*
+chr21	41397647	C	T	PASS	7.65	stop_gained	HIGH	MX2	ENSG00000183486	transcript	ENST00000330714.8	protein_coding	c.1105C>T	p.Arg369*
+chr21	43021413	G	A	PASS	5.21	stop_gained	HIGH	PKNOX1	ENSG00000160199	transcript	ENST00000291547.10	protein_coding	c.831G>A	p.Trp277*
+chr22	18544651	C	T	PASS	6.38	splice_donor_variant&intron_variant	HIGH	PI4KAP1	ENSG00000274602	transcript	ENST00000618794.4	processed_transcript	n.677+1G>A	
+chr22	50460565	G	A	PASS	7.16	stop_gained	HIGH	SBF1	ENSG00000100241	transcript	ENST00000380817.8	protein_coding	c.3115C>T	p.Arg1039*
+chrX	9693395	C	A	PASS	3.99	stop_gained	HIGH	TBL1X	ENSG00000101849	transcript	ENST00000380961.5	protein_coding	c.876C>A	p.Tyr292*
+chrX	15250425	TTTACC	T	PASS	5.87	frameshift_variant&splice_donor_variant&splice_region_variant&intron_variant	HIGH	ASB9	ENSG00000102048	transcript	ENST00000380488.9	protein_coding	c.568_568+4delGGTAA	p.Gly190fs
+chrX	41225079	CCCTATTTGGATCTG	C	PASS	391.04	frameshift_variant	HIGH	USP9X	ENSG00000124486	transcript	ENST00000324545.8	protein_coding	c.7005_7018delCTATTTGGATCTGC	p.Tyr2336fs
+chrX	48349850	TCTCATCTGGAGCTGGGCAAG	T	PASS	6.29	frameshift_variant	HIGH	SSX3	ENSG00000165584	transcript	ENST00000612497.1	protein_coding	c.583_602delCTTGCCCAGCTCCAGATGAG	p.Leu195fs
+chrX	66170610	C	T	PASS	4.32	stop_gained	HIGH	HEPH	ENSG00000089472	transcript	ENST00000519389.5	protein_coding	c.202C>T	p.Gln68*
+chrX	85958923	G	A	PASS	7.78	stop_gained	HIGH	CHM	ENSG00000188419	transcript	ENST00000357749.7	protein_coding	c.757C>T	p.Arg253*
+chrX	105898715	G	A	PASS	3.72	splice_donor_variant&intron_variant	HIGH	NRK	ENSG00000123572	transcript	ENST00000243300.14	protein_coding	c.711+1G>A	
+chrX	118409606	C	T	PASS	4.37	stop_gained	HIGH	WDR44	ENSG00000131725	transcript	ENST00000254029.8	protein_coding	c.1651C>T	p.Arg551*
+chrX	118543009	TA	T	PASS	4.91	frameshift_variant	HIGH	DOCK11	ENSG00000147251	transcript	ENST00000276202.8	protein_coding	c.306delA	p.Glu103fs
+chrX	153806070	C	T	PASS	7.51	splice_donor_variant&intron_variant	HIGH	PDZD4	ENSG00000067840	transcript	ENST00000393758.6	protein_coding	c.567+1G>A	

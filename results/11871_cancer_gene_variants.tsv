@@ -1,0 +1,23 @@
+chrom	pos	ref	alt	filter	tlod	effect	impact	gene	gene_id	feature_type	transcript	biotype	hgvs_c	hgvs_p
+chr3	179226040	G	A	PASS	7.87	missense_variant&splice_region_variant	MODERATE	PIK3CA	ENSG00000121879	transcript	ENST00000263967.4	protein_coding	c.2495G>A	p.Arg832Gln
+chr3	179234297	A	G	PASS	301.38	missense_variant	MODERATE	PIK3CA	ENSG00000121879	transcript	ENST00000263967.4	protein_coding	c.3140A>G	p.His1047Arg
+chr5	56881789	G	A	PASS	8.44	synonymous_variant	LOW	MAP3K1	ENSG00000095015	transcript	ENST00000399503.4	protein_coding	c.2589G>A	p.Val863Val
+chr7	152182915	C	T	PASS	5.67	upstream_gene_variant	MODIFIER	KMT2C	ENSG00000055609	transcript	ENST00000360104.7	protein_coding	c.-4948G>A	
+chr7	152273691	C	T	PASS	3.62	intron_variant	MODIFIER	KMT2C	ENSG00000055609	transcript	ENST00000262189.11	protein_coding	c.1012+14G>A	
+chr8	38418495	C	T	PASS	12.78	upstream_gene_variant	MODIFIER	FGFR1	ENSG00000077782	transcript	ENST00000526688.1	processed_transcript	n.-4519G>A	
+chr8	38418497	C	T	PASS	12.78	upstream_gene_variant	MODIFIER	FGFR1	ENSG00000077782	transcript	ENST00000526688.1	processed_transcript	n.-4521G>A	
+chr8	38419795	G	A	PASS	6.98	upstream_gene_variant	MODIFIER	FGFR1	ENSG00000077782	transcript	ENST00000531196.5	nonsense_mediated_decay	n.-3872C>T	
+chr10	121519965	C	T	PASS	3.88	upstream_gene_variant	MODIFIER	FGFR2	ENSG00000066468	transcript	ENST00000429361.5	protein_coding	c.-4786G>A	
+chr11	69657921	G	A	PASS	6.27	downstream_gene_variant	MODIFIER	CCND1	ENSG00000110092	transcript	ENST00000227507.3	protein_coding	c.*6639G>A	
+chr11	108267263	A	G	PASS	7.49	synonymous_variant	LOW	ATM	ENSG00000149311	transcript	ENST00000527805.5	protein_coding	c.2559A>G	p.Ser853Ser
+chr11	108289762	G	A	PASS	7.18	missense_variant	MODERATE	ATM	ENSG00000149311	transcript	ENST00000452508.6	protein_coding	c.4397G>A	p.Arg1466Gln
+chr11	108316069	G	A	PASS	9.31	missense_variant	MODERATE	ATM	ENSG00000149311	transcript	ENST00000452508.6	protein_coding	c.6154G>A	p.Glu2052Lys
+chr11	108330502	ACCTCTTTGTATT	A	PASS	6.05	upstream_gene_variant	MODIFIER	ATM	ENSG00000149311	transcript	ENST00000533979.5	processed_transcript	n.-2259_-2248delCCTCTTTGTATT	
+chr11	108346025	G	A	PASS	5.37	upstream_gene_variant	MODIFIER	ATM	ENSG00000149311	transcript	ENST00000525178.5	processed_transcript	n.-496G>A	
+chr16	68811854	C	T	PASS	228.38	stop_gained	HIGH	CDH1	ENSG00000039068	transcript	ENST00000261769.10	protein_coding	c.1003C>T	p.Arg335*
+chr16	68819273	C	T	PASS	7.43	splice_region_variant&intron_variant	LOW	CDH1	ENSG00000039068	transcript	ENST00000261769.10	protein_coding	c.1566-7C>T	
+chr16	68828263	G	A	PASS	6.68	missense_variant	MODERATE	CDH1	ENSG00000039068	transcript	ENST00000261769.10	protein_coding	c.2254G>A	p.Val752Ile
+chr17	31201349	A	T	PASS	4.96	intron_variant	MODIFIER	NF1	ENSG00000196712	transcript	ENST00000358273.9	protein_coding	c.1186-62A>T	
+chr17	31252803	C	T	PASS	3.84	3_prime_UTR_variant	MODIFIER	NF1	ENSG00000196712	transcript	ENST00000495910.6	nonsense_mediated_decay	n.*6360C>T	
+chr17	31327839	G	A	PASS	7.41	missense_variant&splice_region_variant	MODERATE	NF1	ENSG00000196712	transcript	ENST00000358273.9	protein_coding	c.5609G>A	p.Arg1870Gln
+chr17	43067490	G	A	PASS	4.64	intron_variant	MODIFIER	BRCA1	ENSG00000012048	transcript	ENST00000471181.7	protein_coding	c.5137+118C>T	

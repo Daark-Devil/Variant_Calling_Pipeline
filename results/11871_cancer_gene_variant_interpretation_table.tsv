@@ -1,0 +1,23 @@
+gene	chrom	pos	ref	alt	effect	impact	hgvs_c	hgvs_p	tlod
+CDH1	chr16	68811854	C	T	stop_gained	HIGH	c.1003C>T	p.Arg335*	228.38
+MAP3K1	chr5	56881789	G	A	synonymous_variant	LOW	c.2589G>A	p.Val863Val	8.44
+ATM	chr11	108267263	A	G	synonymous_variant	LOW	c.2559A>G	p.Ser853Ser	7.49
+CDH1	chr16	68819273	C	T	splice_region_variant&intron_variant	LOW	c.1566-7C>T		7.43
+PIK3CA	chr3	179234297	A	G	missense_variant	MODERATE	c.3140A>G	p.His1047Arg	301.38
+ATM	chr11	108316069	G	A	missense_variant	MODERATE	c.6154G>A	p.Glu2052Lys	9.31
+PIK3CA	chr3	179226040	G	A	missense_variant&splice_region_variant	MODERATE	c.2495G>A	p.Arg832Gln	7.87
+NF1	chr17	31327839	G	A	missense_variant&splice_region_variant	MODERATE	c.5609G>A	p.Arg1870Gln	7.41
+ATM	chr11	108289762	G	A	missense_variant	MODERATE	c.4397G>A	p.Arg1466Gln	7.18
+CDH1	chr16	68828263	G	A	missense_variant	MODERATE	c.2254G>A	p.Val752Ile	6.68
+FGFR1	chr8	38418495	C	T	upstream_gene_variant	MODIFIER	n.-4519G>A		12.78
+FGFR1	chr8	38418497	C	T	upstream_gene_variant	MODIFIER	n.-4521G>A		12.78
+FGFR1	chr8	38419795	G	A	upstream_gene_variant	MODIFIER	n.-3872C>T		6.98
+CCND1	chr11	69657921	G	A	downstream_gene_variant	MODIFIER	c.*6639G>A		6.27
+ATM	chr11	108330502	ACCTCTTTGTATT	A	upstream_gene_variant	MODIFIER	n.-2259_-2248delCCTCTTTGTATT		6.05
+KMT2C	chr7	152182915	C	T	upstream_gene_variant	MODIFIER	c.-4948G>A		5.67
+ATM	chr11	108346025	G	A	upstream_gene_variant	MODIFIER	n.-496G>A		5.37
+NF1	chr17	31201349	A	T	intron_variant	MODIFIER	c.1186-62A>T		4.96
+BRCA1	chr17	43067490	G	A	intron_variant	MODIFIER	c.5137+118C>T		4.64
+FGFR2	chr10	121519965	C	T	upstream_gene_variant	MODIFIER	c.-4786G>A		3.88
+NF1	chr17	31252803	C	T	3_prime_UTR_variant	MODIFIER	n.*6360C>T		3.84
+KMT2C	chr7	152273691	C	T	intron_variant	MODIFIER	c.1012+14G>A		3.62
