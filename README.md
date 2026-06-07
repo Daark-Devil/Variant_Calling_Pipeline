@@ -1,3 +1,8 @@
+
+
+<img width="1650" height="603" alt="image" src="https://github.com/user-attachments/assets/d449d977-a39e-4f01-93ad-220b7e7c88e5" />
+
+
 # SomaticVariantCalling_BreastCancer
 
 End-to-end tumor-normal somatic variant calling pipeline for breast cancer sequencing data. The workflow starts from public sequencing accessions, performs FASTQ generation, quality control, read alignment, BAM processing, somatic variant calling with GATK Mutect2, filtering, SnpEff annotation, cancer-gene prioritization, and final visualization of candidate driver mutations.
