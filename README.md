@@ -5,6 +5,27 @@ End-to-end tumor-normal somatic variant calling pipeline for breast cancer seque
 This repository is designed as a GitHub-ready demonstration of real-world cancer genomics pipeline development. Large raw data files such as FASTQ, SRA, BAM, BAI, compressed VCF, and index files are intentionally excluded. Small result tables, QC reports, alignment metrics, scripts, and final figures are included.
 
 ---
+# Key Findings
+
+• Processed paired tumor-normal whole genome sequencing data using a reproducible variant-calling workflow.
+
+• Generated high-confidence somatic mutation calls using GATK Mutect2.
+
+• Annotated variants using SnpEff to determine functional consequences and predicted impact.
+
+• Identified 313 HIGH-impact variants and 2468 MODERATE-impact variants.
+
+• Prioritized mutations occurring in known cancer-associated genes.
+
+• Detected candidate driver alterations in genes including PIK3CA, CDH1 and ATM.
+
+• Classified variants according to functional consequence including missense, nonsense and frameshift mutations.
+
+• Generated mutation burden summaries and variant-impact distributions.
+
+• Produced publication-ready visualizations for mutation prioritization and biological interpretation.
+
+• Constructed a reproducible workflow from raw sequencing reads to candidate driver mutation identification.
 
 ## Dataset
 
