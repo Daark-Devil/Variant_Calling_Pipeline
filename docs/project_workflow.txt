@@ -1,0 +1,12 @@
+Tumor BAM + matched normal BAM
+→ duplicate marking / BAM indexing
+→ GATK Mutect2 somatic variant calling
+→ FilterMutectCalls
+→ PASS-only somatic VCF
+→ bcftools summary extraction
+→ SnpEff functional annotation
+→ impact classification
+→ high/moderate impact extraction
+→ breast cancer gene prioritization
+→ driver candidate table
+→ mutation summary visualization

@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR19077323_1	/home/dpancholi1/Projects/Cancer_pipeline/Variant_Calling/qc/fastqc/SRR19077323_1_fastqc.zip
+FastQC	all_sections	SRR19077323_2	/home/dpancholi1/Projects/Cancer_pipeline/Variant_Calling/qc/fastqc/SRR19077323_2_fastqc.zip
+FastQC	all_sections	SRR19077324_1	/home/dpancholi1/Projects/Cancer_pipeline/Variant_Calling/qc/fastqc/SRR19077324_1_fastqc.zip
+FastQC	all_sections	SRR19077324_2	/home/dpancholi1/Projects/Cancer_pipeline/Variant_Calling/qc/fastqc/SRR19077324_2_fastqc.zip
